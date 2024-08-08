@@ -1,2 +1,2 @@
-l=[v,i,s,h,a,l]
+l="vishal"
 print(l)
